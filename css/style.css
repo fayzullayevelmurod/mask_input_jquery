@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+input{
+    display: inline-block;
+}
+.mask{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+form{
+    display: inline-block;
+    max-width: 750px;
+}
